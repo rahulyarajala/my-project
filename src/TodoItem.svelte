@@ -61,6 +61,5 @@
         <div class="todo-item-label" class:completed={completed}>{title}</div>
     </div>
     <div class="remove-item" on:click={deleteTodo}>
-        x
     </div>
 </div>

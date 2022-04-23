@@ -5,7 +5,12 @@ html, body {
 }
 
 body {
-	color: #333;
+	background-image: url(https://thumbs.dreamstime.com/b/robotics-abstract-digital-transformation-concepts-coding-wallpaper-ai-algorithm-cyber-world-155190352.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width:auto;
+	height:auto;
+	color: rgb(217, 238, 85);
 	margin: 0;
 	padding: 8px;
 	box-sizing: border-box;
